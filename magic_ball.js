@@ -32,7 +32,7 @@ switch (randomNumber) {
   case 7:
     eightBall = 'Signs point to yes';
   default:
-    console.log(`There appears to be a problem ${userName}! Please contact nine bal services.`);
+    console.log(`There appears to be a problem ${userName}!`);
 }
 console.log(`Magic Eightball: ${eightBall}`);
 
